@@ -1,0 +1,109 @@
+body{
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+  }
+  ul{
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+.container {
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+      
+}
+/* ============================================= */
+
+.shop-list-container {
+    align-items: flex-start;
+    padding-bottom: 40px;
+    display: flex;
+}
+
+.shop-list {
+    width: 100%;
+}
+.shop-list-title {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.19;
+    letter-spacing: -0.04em;
+    color: #111;
+}
+.shop-list-title-span {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.19;
+    letter-spacing: -0.04em;
+    color: #4f2ee8;
+}
+.cart {
+    border: 2px solid rgba(79, 46, 232, 0.4);
+    border-radius: 16px;
+    width: 355px;
+    height: 170px;
+}
+.shop-list-cart {
+    
+}
+.shop-list-element {
+}
+.shop-list-element-img {
+    
+}
+.cart-content {
+    
+}
+.shop-list-element-title {
+    
+}
+.shop-list-element-category {
+    
+}
+.shop-list-element-description {
+    
+}
+.card-footer {
+    
+
+}
+.shop-list-element-autor {
+    
+}
+.shop-list-shops {
+   
+}
+.shop-list-shops-iteam {
+}
+.shop-list-shops-link {
+}
+.shop-list-btn {
+    
+}

@@ -69,6 +69,8 @@ img {
   width: 244px;
 }
 .shopping-list-img {
+  width: 265px;
+  height: 198px;
   margin: 0 auto;
 }
 
@@ -98,6 +100,10 @@ img {
     line-height: 1.33333;
     letter-spacing: -0.02em;
     margin-bottom: 20px;
+  }
+  .shopping-list-img {
+    width: 322px;
+    height: 241px;
   }
 }
 
