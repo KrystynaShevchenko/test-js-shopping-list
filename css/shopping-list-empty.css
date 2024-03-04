@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #f6f6f6;
   box-sizing: border-box;
 }
@@ -20,28 +20,27 @@ img {
   height: auto;
 }
 
+/* ===============Styles shopping-list empty============================ */
 
-  .container {
-    max-width: 375px;
-    margin: 0 auto;
-    padding: 40px 20px 80px;
-    
-  }
+.container {
+  max-width: 375px;
+  margin: 0 auto;
+  padding: 40px 20px 80px;
+}
 
-  .shopping-list-container{
-    align-items: flex-start;
-    padding-bottom: 40px;
-    display: flex;
-  }
+.shopping-list-container {
+  align-items: flex-start;
+  padding-bottom: 40px;
+  display: flex;
+}
 
 .shopping-list {
   width: 100%;
   border: 2px solid black;
-  
 }
 .shopping-list-title {
   font-family: "DM Sans", sans-serif;
-  font-weight: 700;;
+  font-weight: 700;
   font-size: 32px;
   line-height: 1.19;
   letter-spacing: -0.04em;
@@ -68,34 +67,34 @@ img {
   margin-bottom: 14px;
   width: 244px;
 }
+
 .shopping-list-img {
   width: 265px;
   height: 198px;
   margin: 0 auto;
 }
 
-
 /* from 768px */
-@media screen and (min-width: 768px) {
 
-  .container{
+@media screen and (min-width: 768px) {
+  .container {
     max-width: 768px;
   }
 
-  .shopping-list-title{
+  .shopping-list-title {
     font-size: 48px;
     line-height: 1.08333;
     letter-spacing: -0.04em;
     margin-bottom: 140px;
   }
 
-  .shopping-list-title-span{
+  .shopping-list-title-span {
     font-size: 48px;
     line-height: 1.08333;
     letter-spacing: -0.04em;
   }
 
-  .shopping-list-text{
+  .shopping-list-text {
     font-size: 18px;
     line-height: 1.33333;
     letter-spacing: -0.02em;
@@ -109,8 +108,8 @@ img {
 
 /* from 1280px */
 
-@media screen and (min-width: 1394px){
-  .container{
-  min-width: 1394px;
+@media screen and (min-width: 1394px) {
+  .container {
+    min-width: 1394px;
   }
 }
